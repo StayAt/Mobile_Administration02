@@ -24,7 +24,7 @@ after download the toolbox you can explore what is possible with the full functi
 <img src="http://StayAt.org/images/plx/mobileAdminSofa.gif" alt="mobileAdminSofa.gif">
 
 <h3>Registration</h3>
-<img src="http://StayAt.org/images/plx/mobileAdminRegister" alt="mobileAdminRegister">
+<img src="http://StayAt.org/images/plx/mobileAdminRegister.gif" alt="mobileAdminRegister.gif">
 
 <h3>Rename</h3>
 <img src="http://StayAt.org/images/plx/mobileAdminRename.gif" alt="mobileAdminRename.gif">
